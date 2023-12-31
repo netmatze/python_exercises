@@ -1,0 +1,13 @@
+# requirements.yml
+name: python_exercises
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - numpy
+  - scikit-learn
+  - tensorflow
+  - keras
